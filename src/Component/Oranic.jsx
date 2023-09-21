@@ -1,7 +1,7 @@
 import image1 from "../images/veg.jpeg"
 import image2 from "../images/Roast Ground Coffee.jpg"
 import image3 from "../images/Salted Instant Popcorn.jpg"
-import {FaArrowRight} from "react-icons/Fa"
+import {FaArrowRight} from "react-icons/fa"
 
 const Oranic = () => {
   return (
