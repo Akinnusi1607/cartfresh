@@ -1,0 +1,137 @@
+.slide1{
+  background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(images/vegetables2.jpeg);
+  background-repeat: no-repeat;
+  height: 80vh;
+  color: white;
+  background-size: cover;
+  padding: 20px;
+  padding-top: 100px;
+  border-radius: 15px;
+
+}
+
+.slide2{
+  background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(images/vegetable2.jpeg);
+  background-repeat: no-repeat;
+  height: 80vh;
+  color: white;
+  background-size: cover;
+  padding: 20px;
+  padding-top: 100px;
+  border-radius: 15px;
+
+}
+
+.Slide{
+  margin: 20px;
+}
+
+h1{
+  font-size: 3.5rem;
+}
+.btn{
+  background-color: green;
+  color: white;
+}
+
+.card-images{
+  width: 200px;
+  height: 200px;
+
+}
+
+.cardjsx{
+  margin: 20px;
+
+
+}
+.image-container{
+  margin-bottom: 20px;
+  
+  
+ 
+}
+
+.Card2-main{
+
+}
+
+
+.fruit1{
+  background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(images/Corn.webp);
+  background-repeat: no-repeat;
+  height: 400px;
+  color: white;
+  background-size: cover;
+  padding: 20px;
+  padding-top: 50px;
+  border-radius: 15px;
+  margin-bottom: 20px;
+  margin-right: 5px;
+  margin-left: 10px;
+
+}
+
+.fruit2{
+  background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(images/eat.jpeg);
+  background-repeat: no-repeat;
+  height: 400px;
+  color: white;
+  background-size: cover;
+  padding: 20px;
+  padding-top: 50px;
+  border-radius: 15px;
+  margin-bottom: 20px;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+.fresh{
+  margin: 10px;
+}
+
+.fluild{
+  margin: 10px;
+  margin-top: 40px;
+}
+
+.icons{
+  color:green;
+}
+
+.junks{
+  background:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(images/veg.jpeg);
+  background-repeat: no-repeat;
+  height: 600px;
+  color: white;
+  background-size: cover;
+  padding: 20px;
+  padding-top: 50px;
+  border-radius: 15px;
+  margin-bottom: 20px;
+  margin-right: 5px;
+  margin-left: 5px;
+}
+
+
+
+.junks-images{
+  margin: 20px;
+}
+.btn1{
+  margin-bottom: 5px;
+}
+
+.footer-container{
+  color: white;
+}
+
+.body{
+ background-color: black;
+ padding-top: 40px;
+ margin-bottom: 20px;
+}
+
+.naira{
+  color:green;
+}
