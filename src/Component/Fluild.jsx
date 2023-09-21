@@ -1,8 +1,8 @@
 import { useEffect } from "react"
-import { FaRegClock } from "react-icons/Fa"
-import { FaGift } from "react-icons/Fa"
-import { FaCube } from "react-icons/Fa"
-import { FaRecycle } from "react-icons/Fa"
+import { FaRegClock } from "react-icons/fa"
+import { FaGift } from "react-icons/fa"
+import { FaCube } from "react-icons/fa"
+import { FaRecycle } from "react-icons/fa"
 
 const Fluild = () => {
  

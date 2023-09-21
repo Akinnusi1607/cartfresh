@@ -44,7 +44,7 @@ const Footer = () => {
             </div>
             </div>
             <hr/>
-        <a herf="http://www.instagram.com/___never__mind/"></a>
+        <a herf="http://www.instagram.com/__never__mind/"></a>
          
        
     </div>
